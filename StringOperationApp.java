@@ -77,7 +77,7 @@ public class StringOperationApp
 		op=new MaxRepatativeChar();
 		op.performOperation("mmmnnnnop");
 		op=new ReveseWord();
-		op.performOperation("krushna");
+		op.performOperation("Rahul");
 		System.out.println();
 	}
 }
