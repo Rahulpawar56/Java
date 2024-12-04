@@ -1,0 +1,18 @@
+/*
+Oddly Even Problem Statement
+Given a maximum of 100 digit numbers as input, find the difference between the sum of odd and even position digits
+Test Cases
+
+*/
+import java.util.*;
+public class OddEvenDiff
+{
+	public static void main(String x[])
+	{
+		Scanner  xyz=new Scanner(System.in);
+		System.out.println("Enter a Number");
+		int no=xyz.nextInt();
+		
+		
+	}
+}
