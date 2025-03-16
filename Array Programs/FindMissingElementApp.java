@@ -22,8 +22,6 @@ class FindMissingElement
 			System.out.printf("%d\t",j);
 			j++;
 		}
-		
-		
 		i++;
 		j++;
 	}
